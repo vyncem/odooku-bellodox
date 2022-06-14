@@ -5,7 +5,7 @@
   "keywords": ["odoo", "openerp", "python"],
   "buildpacks": [
     {
-      "url": "https://github.com/adaptivdesign/odooku-buildpack"
+      "url": "https://github.com/odooku/odooku-buildpack.git\#11.0"
     }
   ],
   "addons": ["heroku-postgresql:hobby-basic"],
